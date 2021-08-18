@@ -4,3 +4,7 @@ hello my favorite color is blue
 
 i changed heelo.txt
 123334
+182892&%t
+git branch -M main
+git remote add origin https://github.com/gujralsanyam22/learningGit.git
+git push -u origin main
