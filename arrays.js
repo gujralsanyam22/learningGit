@@ -97,6 +97,7 @@ for(let i=sum.length-1; i>=0; i--){
  }
 }
 console.log(ans);
+// hhi
 
 
 
@@ -113,4 +114,4 @@ console.log(ans);
 // }
 // console.log(sum);
 
-
+//hello i am sanyam
